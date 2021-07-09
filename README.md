@@ -1,5 +1,5 @@
 # jibsamGarcia
-# Mario_iA
+# Hand Gesture Mario_iA 
 
 Para este proyecto necesitas tener instalado tensorflow 1.14+ y cv2 4.0+.
 
