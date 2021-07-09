@@ -11,6 +11,6 @@ Require Python(3) to run:
   
 Clic image for the watch video. 
 
-[![clic video](http://img.youtube.com/vi/j_yQ7raaOF0/cap.png)](https://www.youtube.com/embed/omrmXGu0lO8 "clic aqui")
+[![clic video](http://img.youtube.com/vi/omrmXGu0lO8/0.jpg)](https://www.youtube.com/embed/omrmXGu0lO8 "clic aqui")
 
 ![Screenshot](cap.png)
